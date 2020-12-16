@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">同袍</string>
+    <string name="jpush_demo_setting_su">123123</string>
+    <string name="jpush_demo_mobilenumber_empty_guide">asd</string>
+    <string name="jpush_demo_error_tag_gs_empty">asd</string>
+    <string name="jpush_demo_error_alias_empty">asdasda</string>
+    <string name="jpush_demo_error_tag_empty">"asdgfhjkgfdxc "</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

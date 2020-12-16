@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MarkFrameLayout">
+        <attr name="mark_rotate_degrees" format="integer" />
+        <attr name="mark_textcolor" format="color|reference" />
+        <attr name="mark_textsize" format="dimension" />
+        <attr name="mark_alpha" format="integer" />
+        <attr name="mark_is_foreground" format="boolean" />
+        <attr name="mark_hor_spacing" format="dimension" />
+        <attr name="mark_ver_spacing" format="dimension" />
+        <attr name="mark_show_value" format="string" />
+    </declare-styleable>
+
+
+</resources>
